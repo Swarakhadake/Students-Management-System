@@ -17,6 +17,9 @@ This is a Python-based GUI application that helps manage student records efficie
 * Tkinter
 * SQLite3
 
+## Output Photo
+* Output.png file
+
 ## ▶️ How to Run
 
 1. Install Python
